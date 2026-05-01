@@ -9,6 +9,4 @@
 * **Sensor IMU:** MPU 6050
 * **Power Module:** UBEC 5V 3 A
 * **Penggerak (aktuator): 4x Servo MG90S & ESC_40A
-#include <Wire.h> // Komunikasi untuk MPU6050
-#include <Servo.h>
-#include <MPU6050.h> 
+
