@@ -12,4 +12,11 @@
 
 ===
 
+===
+Update 6/05/2026:
+1. Changed one MPU from 6050 to 9250
+2. Centered the two MPUs
+3. Used male pin header for both motors and servos
+===
+
 === Thank You ===
